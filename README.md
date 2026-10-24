@@ -82,8 +82,8 @@ SMS_Spam_Detector/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/mtechbro94/SMS-Spam-Detection-using-SVM.git
-   cd SMS-Spam-Detection-using-SVM
+   git clone https://github.com/divyansh-chatrath/SMS-Spam-Detector.git
+   cd SMS-Spam-Detector
    ```
 
 2. **Create a virtual environment** (recommended)
