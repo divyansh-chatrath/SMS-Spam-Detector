@@ -249,9 +249,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Mtechbro94**
+**divyansh-chatrath**
 - GitHub: [@divyansh-chatrath](https://github.com/divyansh-chatrath)
-- Repository: [SMS-Spam-Detection-using-SVM]((https://github.com/divyansh-chatrath/SMS-Spam-Detector))
+- Repository: [SMS-Spam-Detector]((https://github.com/divyansh-chatrath/SMS-Spam-Detector))
 
 ## 🙏 Acknowledgments
 
