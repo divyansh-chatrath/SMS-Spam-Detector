@@ -1,4 +1,4 @@
-# 📱 SMS Spam Detection using SVM
+# 📱 SMS Spam Detector
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.0%2B-red.svg)](https://streamlit.io/)
@@ -250,8 +250,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Mtechbro94**
-- GitHub: [@mtechbro94](https://github.com/mtechbro94)
-- Repository: [SMS-Spam-Detection-using-SVM](https://github.com/mtechbro94/SMS-Spam-Detection-using-SVM)
+- GitHub: [@divyansh-chatrath](https://github.com/divyansh-chatrath)
+- Repository: [SMS-Spam-Detection-using-SVM]((https://github.com/divyansh-chatrath/SMS-Spam-Detector))
 
 ## 🙏 Acknowledgments
 
@@ -259,14 +259,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Scikit-learn** community for excellent machine learning tools
 - **Streamlit** team for the amazing web app framework
 - **Open Source Community** for continuous inspiration and support
-
-## 📞 Support
-
-If you encounter any issues or have questions:
-
-1. **Check the Issues**: Look at [existing issues](https://github.com/mtechbro94/SMS-Spam-Detection-using-SVM/issues)
-2. **Create New Issue**: If your problem isn't listed, create a new issue
-3. **Contact**: Reach out through GitHub
 
 ---
 
