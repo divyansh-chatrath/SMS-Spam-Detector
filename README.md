@@ -249,7 +249,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**divyansh-chatrath**
+**divyansh**
 - GitHub: [@divyansh-chatrath](https://github.com/divyansh-chatrath)
 - Repository: [SMS-Spam-Detector]((https://github.com/divyansh-chatrath/SMS-Spam-Detector))
 
